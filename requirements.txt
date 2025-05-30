@@ -1,0 +1,12 @@
+# RAG Chat-bot для инвестиционного консультирования
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.25.2
+pydantic==2.5.0
+
+# Environment configuration
+python-dotenv==1.0.0
+
+# Для RAG с эмбеддингами
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
